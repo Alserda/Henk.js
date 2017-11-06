@@ -1,0 +1,22 @@
+{
+  "name": "henk.js",
+  "version": "1.0.0",
+  "description": "mgh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Alserda/Henk.js.git"
+  },
+  "keywords": [
+    "henk"
+  ],
+  "author": "Peter Alserda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alserda/Henk.js/issues"
+  },
+  "homepage": "https://github.com/Alserda/Henk.js#readme"
+}
